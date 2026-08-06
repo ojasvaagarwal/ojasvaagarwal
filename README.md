@@ -15,7 +15,7 @@
   <a href="mailto:ojasva.agarwal.cg@gmail.com">
     <img src="https://img.shields.io/badge/Email-ojasva.agarwal.cg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ojasvaagarwal/" target="_blank">
+  <a href="https://www.linkedin.com/in/ojasva-agarwal-635b42427/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/ojasvaagarwal/" target="_blank">
@@ -57,8 +57,8 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ojasva's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ojasvaagarwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ojasva's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvaagarwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
