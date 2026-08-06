@@ -1,3 +1,5 @@
+<img width="1000" height="150" alt="tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300)" src="https://github.com/user-attachments/assets/aa1872f1-aeb0-459f-9ff1-3dc94faf676b" />
+
 <div align="center">
 
 # 👋 Hi, I'm **Ojasva Agarwal**
