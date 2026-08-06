@@ -63,8 +63,8 @@
 <br/><br/>
 
 <!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="Ojasva's LeetCode Stats" width="90%" />
+<a href="https://leetcode.com/u/ojasvaagarwal/">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=ojasvaagarwal&theme=dark" alt="Ojasva's LeetCode Stats" width="90%" />
 </a>
 
 </div>
