@@ -1,11 +1,5 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://kommodo.ai/i/cdMUmQBnd13RgByjHStC" alt="Profile Visual" width="100%" />
-</div>
-
-
-
 # 👋 Hi, I'm **Ojasva Agarwal**
 ## 🎓 First-Year B.Tech Student @ [CodingGita](https://codinggita.com)
 *Passionate about Software Development, Problem Solving, and Web Technologies.*
@@ -58,20 +52,13 @@
 
 ---
 
-### 📊 GitHub & Problem Solving Stats
+### 📊 GitHub stats
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ojasvaagarwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ojasva's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvaagarwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ojasvaagarwal)
 
-<br/><br/>
-
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/ojasvaagarwal/">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=ojasvaagarwal&theme=dark" alt="Ojasva's LeetCode Stats" width="90%" />
-</a>
 
 </div>
 
