@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Ojasva Agarwal**
-####### 🎓 First-Year B.Tech Student @ [CodingGita](https://codinggita.com)
+## 🎓 First-Year B.Tech Student @ [CodingGita](https://codinggita.com)
 *Passionate about Software Development, Problem Solving, and Web Technologies.*
 
 ---
