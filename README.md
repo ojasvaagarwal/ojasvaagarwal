@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## First-Year AI Engineering Student | Exploring Artificial Intelligence & Machine Learning | Building the Future with Technology
 <!--
 **ojasvaagarwal/ojasvaagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
