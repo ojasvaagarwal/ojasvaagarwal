@@ -1,5 +1,11 @@
 <div align="center">
 
+<div align="center">
+  <img src="https://kommodo.ai/i/cdMUmQBnd13RgByjHStC" alt="Profile Visual" width="100%" />
+</div>
+
+
+
 # 👋 Hi, I'm **Ojasva Agarwal**
 ## 🎓 First-Year B.Tech Student @ [CodingGita](https://codinggita.com)
 *Passionate about Software Development, Problem Solving, and Web Technologies.*
